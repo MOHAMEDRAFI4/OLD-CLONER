@@ -18,9 +18,9 @@
 
 RUN
 
-#git clone https://github.com/MOHAMEDRAFI4/CYBER
+#git clone https://github.com/MOHAMEDRAFI4/OLD-CLONER
 
-#cd CYBER
+#cd OLD-CLONER
 
 
-#python X-PRO
+#python OLD-CLONER.py
